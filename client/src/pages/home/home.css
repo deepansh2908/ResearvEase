@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,500;1,200&family=Roboto:wght@400;700&display=swap');
+
+.homeContainer{
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+}
+
+.homeTitle{
+  font-family: 'Montserrat', sans-serif;
+  width: 1024px;
+  font-size: 18px;
+  font-weight: 600;
+  color: rgb(69, 38, 3);
+}
