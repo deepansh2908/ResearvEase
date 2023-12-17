@@ -1,5 +1,5 @@
 # ResearvEase
-An interactive hotel bookign website using the MERN stack
+An interactive hotel booking website using the MERN stack
 
 ## Built with:
 - [HTML](https://www.w3schools.com/html/)
